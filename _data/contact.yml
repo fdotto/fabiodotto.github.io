@@ -1,5 +1,9 @@
 #  The contact options.
 
+- type: facebook
+  icon: 'fab fa-facebook'
+  url: 'https://www.facebook.com/fabdotto'
+
 - type: github
   icon: "fab fa-github"
 
