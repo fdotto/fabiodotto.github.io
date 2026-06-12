@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Sono **Fabio Dotto**, insegnante di storia e filosofia.
+
+Mi occupo principalmente di **scienze cognitive** e **psicologia evoluzionistica**: come la mente umana si è formata, perché crediamo ciò che crediamo, e quali radici cognitive ed evolutive stanno dietro fenomeni come la religione, la morale e la cultura.
+
+In questo blog raccolgo note di lettura, appunti di ricerca e riflessioni nate dal mio lavoro quotidiano di studio.
