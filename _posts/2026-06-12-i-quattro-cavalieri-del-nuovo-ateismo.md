@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Quattro Cavalieri del Nuovo Ateismo"
+title: "I Quattro Cavalieri dell'Apocalisse del Nuovo Ateismo"
 date: 2026-06-12 10:30:00 +0200
 categories: [ricerca]
 tags: [ateismo, nuovo ateismo, Dawkins, Hitchens, Harris, Dennett, religione, scienze cognitive della religione]
