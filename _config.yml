@@ -35,7 +35,7 @@ cdn:
 avatar: /assets/img/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
-social_preview_image:
+social_preview_image: /assets/img/avatar.jpg
 
 # Boolean type, the global switch for TOC in posts.
 toc: true

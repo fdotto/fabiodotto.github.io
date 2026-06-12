@@ -5,6 +5,7 @@ date: 2026-06-03 12:46:50 +0200
 categories: [ricerca]
 tags: [AI, LLM, logica]
 math: true
+description: "I Large Language Models non ragionano con la logica formale: apprendono pattern di inferenza dai dati. Un’analisi di sillogismi, predizione statistica e limiti cognitivi dei modelli linguistici."
 ---
 
 ## Executive summary
