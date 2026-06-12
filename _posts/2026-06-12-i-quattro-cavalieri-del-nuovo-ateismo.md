@@ -4,7 +4,7 @@ title: "I Quattro Cavalieri dell'Apocalisse del Nuovo Ateismo"
 date: 2026-06-12 10:30:00 +0200
 categories: [ricerca]
 tags: [ateismo, nuovo ateismo, Dawkins, Hitchens, Harris, Dennett, religione, scienze cognitive della religione]
-description: "Profili, argomenti e ricezione critica di una stagione intellettuale."
+description: "Dawkins, Harris, Hitchens, Dennett: profili, argomenti e ricezione critica dei Quattro Cavalieri del Nuovo Ateismo, la stagione intellettuale che ha riportato l'ateismo al centro del dibattito culturale."
 image:
   path: /assets/img/quattro-cavalieri-nuovo-ateismo.jpg
   alt: I Quattro Cavalieri del Nuovo Ateismo
